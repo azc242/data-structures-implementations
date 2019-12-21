@@ -1062,7 +1062,6 @@ private void preOrderPrint(Node<E> tree, int level, StringBuilder output) {
    /**
     * Returns a formatted and readable AVL 
     * @return formatted AVL
-    * @author Joanna Klukowska
     */
     public String toStringTreeFormat() {
 
