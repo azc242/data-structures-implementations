@@ -914,7 +914,6 @@ public class BST <E extends Comparable<E>> implements Iterable <E>{
    /**
     * Returns a formatted and readable BST 
     * @return formatted BST
-    * @author Joanna Klukowska
     */
     public String toStringTreeFormat() {
 
